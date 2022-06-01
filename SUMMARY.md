@@ -1,29 +1,29 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [What is El Mandadero?](README.md)
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Manufacturing Guides](guides/manufacturing-guides.md)
+* [Assembly Guide](guides/assembly-guide.md)
+* [xxxAdvanced permissions](guides/xxxadvanced-permissions.md)
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [xxxProjects](fundamentals/xxxprojects.md)
+* [xxxMembers](fundamentals/xxxmembers.md)
+* [xxxTask Lists](fundamentals/xxxtask-lists.md)
+* [xxxTasks](fundamentals/xxxtasks.md)
 
 ## Use Cases
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [xxxFor Designers](use-cases/xxxfor-designers/README.md)
+  * [Figma Integration](use-cases/xxxfor-designers/figma-integration.md)
+* [xxxFor Engineers](use-cases/xxxfor-engineers/README.md)
+  * [GitHub Integration](use-cases/xxxfor-engineers/github-integration.md)
+* [xxxFor Support](use-cases/xxxfor-support/README.md)
+  * [Intercom Integration](use-cases/xxxfor-support/intercom-integration.md)
 
 ## Extras
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [xxxKeyboard Shortcuts](extras/xxxkeyboard-shortcuts.md)
