@@ -4,26 +4,31 @@
 
 ## Guides
 
-* [Manufacturing Guides](guides/manufacturing-guides.md)
-* [Assembly Guide](guides/assembly-guide.md)
-* [xxxAdvanced permissions](guides/xxxadvanced-permissions.md)
+* [Manufacturing Guides](guides/manufacturing-guides/README.md)
+  * [Torsion arm PolyUrethane](guides/manufacturing-guides/torsion-arm-polyurethane.md)
+* [Page 1](guides/page-1.md)
+* [Assembly Guide](guides/assembly-guide/README.md)
+  * [Bottom Chassis Assembly](guides/assembly-guide/bottom-chassis-assembly/README.md)
+    * [Torsion Arm Axle Attachment to chassis](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-axle-attachment-to-chassis.md)
+    * [Torsion Arm attachment to Axles](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-attachment-to-axles.md)
+* [xxxAdvanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals
 
-* [xxxProjects](fundamentals/xxxprojects.md)
-* [xxxMembers](fundamentals/xxxmembers.md)
-* [xxxTask Lists](fundamentals/xxxtask-lists.md)
-* [xxxTasks](fundamentals/xxxtasks.md)
+* [xxxProjects](fundamentals/projects.md)
+* [xxxMembers](fundamentals/members.md)
+* [xxxTask Lists](fundamentals/task-lists.md)
+* [xxxTasks](fundamentals/tasks.md)
 
 ## Use Cases
 
-* [xxxFor Designers](use-cases/xxxfor-designers/README.md)
-  * [Figma Integration](use-cases/xxxfor-designers/figma-integration.md)
-* [xxxFor Engineers](use-cases/xxxfor-engineers/README.md)
-  * [GitHub Integration](use-cases/xxxfor-engineers/github-integration.md)
-* [xxxFor Support](use-cases/xxxfor-support/README.md)
-  * [Intercom Integration](use-cases/xxxfor-support/intercom-integration.md)
+* [xxxFor Designers](use-cases/for-designers/README.md)
+  * [Figma Integration](use-cases/for-designers/figma-integration.md)
+* [xxxFor Engineers](use-cases/for-engineers/README.md)
+  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
+* [xxxFor Support](use-cases/for-support/README.md)
+  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
 
 ## Extras
 
-* [xxxKeyboard Shortcuts](extras/xxxkeyboard-shortcuts.md)
+* [xxxKeyboard Shortcuts](extras/keyboard-shortcuts.md)

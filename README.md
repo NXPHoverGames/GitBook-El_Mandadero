@@ -36,16 +36,16 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/manufacturing-guides.md" %}
-[manufacturing-guides.md](guides/manufacturing-guides.md)
+{% content-ref url="guides/manufacturing-guides/" %}
+[manufacturing-guides](guides/manufacturing-guides/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/assembly-guide.md" %}
-[assembly-guide.md](guides/assembly-guide.md)
+{% content-ref url="guides/assembly-guide/" %}
+[assembly-guide](guides/assembly-guide/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/xxxadvanced-permissions.md" %}
-[xxxadvanced-permissions.md](guides/xxxadvanced-permissions.md)
+{% content-ref url="guides/advanced-permissions.md" %}
+[advanced-permissions.md](guides/advanced-permissions.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -56,20 +56,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/xxxprojects.md" %}
-[xxxprojects.md](fundamentals/xxxprojects.md)
+{% content-ref url="fundamentals/projects.md" %}
+[projects.md](fundamentals/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/xxxmembers.md" %}
-[xxxmembers.md](fundamentals/xxxmembers.md)
+{% content-ref url="fundamentals/members.md" %}
+[members.md](fundamentals/members.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/xxxtask-lists.md" %}
-[xxxtask-lists.md](fundamentals/xxxtask-lists.md)
+{% content-ref url="fundamentals/task-lists.md" %}
+[task-lists.md](fundamentals/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/xxxtasks.md" %}
-[xxxtasks.md](fundamentals/xxxtasks.md)
+{% content-ref url="fundamentals/tasks.md" %}
+[tasks.md](fundamentals/tasks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
