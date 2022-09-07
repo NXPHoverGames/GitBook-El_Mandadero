@@ -4,13 +4,13 @@
 
 ## Guides
 
-* [Manufacturing Guides](guides/manufacturing-guides/README.md)
-  * [Torsion arm PolyUrethane](guides/manufacturing-guides/torsion-arm-polyurethane.md)
-* [Page 1](guides/page-1.md)
 * [Assembly Guide](guides/assembly-guide/README.md)
   * [Bottom Chassis Assembly](guides/assembly-guide/bottom-chassis-assembly/README.md)
+    * [Torsion Arm - ELM4 Motor attachment to arm](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-elm4-motor-attachment-to-arm.md)
     * [Torsion Arm Axle Attachment to chassis](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-axle-attachment-to-chassis.md)
     * [Torsion Arm attachment to Axles](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-attachment-to-axles.md)
+* [Manufacturing Guides](guides/manufacturing-guides/README.md)
+  * [Torsion arm PolyUrethane](guides/manufacturing-guides/torsion-arm-polyurethane.md)
 * [xxxAdvanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals
