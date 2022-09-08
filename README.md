@@ -21,6 +21,10 @@ Here are a couple of examples of succinct overviews from products with really gr
 > The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+>
+>
+
+{% embed url="https://a360.co/3d0eOOO" %}
 
 ## Getting Started
 
