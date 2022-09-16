@@ -8,6 +8,10 @@ Torsion suspension arm manufacturing guide
 * preparing metal
 * potting procedures
 
+<figure><img src="../../.gitbook/assets/Capture.PNG" alt=""><figcaption></figcaption></figure>
+
+*
+
 ### heading 2
 
 ### heading also&#x20;
