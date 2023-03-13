@@ -7,7 +7,7 @@
 * [Assembly Guide](guides/assembly-guide/README.md)
   * [Bottom Chassis Assembly ELM4 200-000](guides/assembly-guide/bottom-chassis-assembly/README.md)
     * [Torsion arm assembly ELM4 230-000](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-assembly-elm4-230-000/README.md)
-      * [T-Arm Motor to arm](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-assembly-elm4-230-000/t-arm-motor-to-arm.md)
+      * [T-Arm Full Assembly](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-assembly-elm4-230-000/t-arm-motor-to-arm.md)
       * [T-Arm Arm to Axle](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-assembly-elm4-230-000/torsion-arm-attachment-to-axles.md)
       * [T-Arm Axle to chassis](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-assembly-elm4-230-000/torsion-arm-axle-attachment-to-chassis.md)
     * [Cross Brace Assembly](guides/assembly-guide/bottom-chassis-assembly/cross-brace-assembly.md)
