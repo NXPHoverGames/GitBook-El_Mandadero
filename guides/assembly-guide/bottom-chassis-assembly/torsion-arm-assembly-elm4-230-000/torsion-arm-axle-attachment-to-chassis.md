@@ -1,6 +1,27 @@
-# T-Arm Axle to chassis
+---
+description: Installing Suspension Modules to the Bottom Chassis of El Mandadero.
+---
 
-The torsion arm assembly consists of an Axle and an Arm. While the Arm could be attached to the axle first, It is preferred assembly sequence to attach the axle to the chassis base first.
+# T-Arm Insertion to Bottom Chassis
+
+## Video
+
+{% embed url="https://www.youtube.com/watch?index=2&list=PLPtvbG7RC0Ti-LQ3VVHAOeb-btZVdt6pv&v=wevUcje1ZkI" %}
+
+## Required parts
+
+BOM will go here
+
+## Procedure
+
+1.  Insert the rubber edge trim into the inner edge of the opening in the Bottom Chassis.\
+
+
+    <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>The addition of the rubber trim ensures a tight fit when the torsion box is inserted.</p></figcaption></figure>
+2. hola
+3.
+
+## Assembly notes
 
 
 

@@ -46,7 +46,7 @@ BOMMER List will go here
 9.  Tighten the U-Bolts against the the shaft of the motor hub. Then take the 4 nuts and secure the assembly wheel in place.\
 
 
-    <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Close-up to the hex nuts being tightened underneath the torsion arm. </p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Close-up to the hex nuts being tightened underneath the torsion arm. </p></figcaption></figure>
 10. Pick up the front plastic cover and clip it into place. Then secure it using two M5 screws at the top and one M3 screw at the sides.\
 
 
