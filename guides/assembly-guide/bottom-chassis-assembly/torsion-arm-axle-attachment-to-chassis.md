@@ -21,7 +21,7 @@ description: Installing Suspension Modules to the Bottom Chassis of El Mandadero
 2.  Angle the Suspension Arm at a 45°'ish angle and insert the exposed portion of the axle first, ensuring it sits right above the rubber trim as so:\
 
 
-    <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 3.  Pivoting on the rubber trim, turn the suspension arm to a straight angle while pushing inwards.\
 
 
@@ -29,7 +29,7 @@ description: Installing Suspension Modules to the Bottom Chassis of El Mandadero
 4.  Once the suspension arm is in place, fix it using the included six M5-0.8x10 screws and their respective locknuts just as shown in the video.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Detail showing the six M5 screws fastened in place.</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Detail showing the six M5 screws fastened in place.</p></figcaption></figure>
 5.  Repeat the above steps with the remaining suspension arms.
 
 

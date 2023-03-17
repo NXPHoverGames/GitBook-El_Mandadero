@@ -17,7 +17,7 @@ description: Guide describing how to set up the inner structure of the ELM4 Top 
 1.  Gather the two Bottom Bases and the Bottom Mid-Cross and assemble them using four M3-0.5x5 screws and two M5-0.8x10 screws with two M5 locknuts.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Now take the two Panel Basket Mid Crosses and install them in the Bottom Mid-Cross using eight M3-0.5x5 screws.\
 
 
@@ -37,11 +37,11 @@ description: Guide describing how to set up the inner structure of the ELM4 Top 
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Detail showing the 8 mounting holes used for the Top U-Frames.</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Detail showing the 8 mounting holes used for the Top U-Frames.</p></figcaption></figure>
 7.  Grab the two front/rear Crosses and install them using four M3-0.5x5 screws at the bottom and six at the front per panel.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 8.  Take the four outer Q Panels and install them using eight M3-0.5x5 per panel. Three going to through the front crosses, three through the middle crosses and two to the bottom panels.\
     \
 
@@ -54,7 +54,7 @@ description: Guide describing how to set up the inner structure of the ELM4 Top 
 9.  Get all of the outer U-Frames and install them as so.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Each side U-Frame will need eight screws and each front one will need three.</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Each side U-Frame will need eight screws and each front one will need three.</p></figcaption></figure>
 
 ## Assembly notes
 
