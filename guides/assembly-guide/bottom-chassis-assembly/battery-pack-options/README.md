@@ -1,2 +1,0 @@
-# Battery pack options
-

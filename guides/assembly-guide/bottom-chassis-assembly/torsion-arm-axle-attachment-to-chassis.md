@@ -1,25 +1,36 @@
 ---
-description: Installing windscreen and headlights in the bottom chassis
+description: Installing Suspension Modules to the Bottom Chassis of El Mandadero.
 ---
 
-# Accesories installation
+# T-Arm Insertion to Bottom Chassis
 
 ## Video
 
-{% embed url="https://www.youtube.com/watch?index=5&list=PLPtvbG7RC0Ti-LQ3VVHAOeb-btZVdt6pv&v=sidRR_Vja6M" %}
+{% embed url="https://www.youtube.com/watch?index=2&list=PLPtvbG7RC0Ti-LQ3VVHAOeb-btZVdt6pv&v=wevUcje1ZkI" %}
 
-## Required parts
+## Bill of materials
 
-BOM will go here
+{% embed url="https://a360.co/3n27CGv" %}
 
 ## Procedure
 
-1. Grab the polycarbonate windows and fix them in place using the six M3-0.5x12 screws, washers and locknuts included in the kit.
-2. Pivoting on the rubber trim, turn the suspension arm to a straight angle while pushing inwards.\
+1.  Insert the rubber edge trim into the inner edge of the opening in the Bottom Chassis.\
 
-3. Once the suspension arm is in place, fix it using the included six M5-0.8x10 screws and their respective locknuts just as shown in the video.\
 
-4.  Repeat the above steps with the remaining suspension arms.
+    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The addition of the rubber trim ensures a tight fit when the torsion box is inserted.</p></figcaption></figure>
+2.  Angle the Suspension Arm at a 45°'ish angle and insert the exposed portion of the axle first, ensuring it sits right above the rubber trim as so:\
+
+
+    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+3.  Pivoting on the rubber trim, turn the suspension arm to a straight angle while pushing inwards.\
+
+
+    <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Detail showing the suspension arm in the correct position before adding the fasteners</p></figcaption></figure>
+4.  Once the suspension arm is in place, fix it using the included six M5-0.8x10 screws and their respective locknuts just as shown in the video.\
+
+
+    <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Detail showing the six M5 screws fastened in place.</p></figcaption></figure>
+5.  Repeat the above steps with the remaining suspension arms.
 
 
 
