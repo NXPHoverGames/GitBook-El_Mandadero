@@ -12,7 +12,7 @@ coverY: 133
 
 {% embed url="https://a360.co/3LrEbI6" %}
 
-## Assembly guides links
+## Video
 
 {% content-ref url="arch-and-accesories-installation.md" %}
 [arch-and-accesories-installation.md](arch-and-accesories-installation.md)

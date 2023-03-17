@@ -17,11 +17,11 @@ description: Installing Suspension Modules to the Bottom Chassis of El Mandadero
 1.  Insert the rubber edge trim into the inner edge of the opening in the Bottom Chassis.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The addition of the rubber trim ensures a tight fit when the torsion box is inserted.</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>The addition of the rubber trim ensures a tight fit when the torsion box is inserted.</p></figcaption></figure>
 2.  Angle the Suspension Arm at a 45°'ish angle and insert the exposed portion of the axle first, ensuring it sits right above the rubber trim as so:\
 
 
-    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 3.  Pivoting on the rubber trim, turn the suspension arm to a straight angle while pushing inwards.\
 
 

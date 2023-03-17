@@ -35,7 +35,7 @@ coverY: 25.44408945686901
 5.  Take the U-Bolts and the clamps and insert the first into the latter making sure that the flat portion of the clamps is facing the bolts, as shown below.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Detail showing the U-Bolts sub-assembly.</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Detail showing the U-Bolts sub-assembly.</p></figcaption></figure>
 6. Insert the U-Bolts into the Torsion Arm and set them in the mounting holes, but do not fasten them yet.
 7.  Grab the BLDC Hub Motor and insert it into the torsion arm, making sure the wiring goes first and through the U-Bolts.\
 
