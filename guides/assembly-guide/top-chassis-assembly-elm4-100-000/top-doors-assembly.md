@@ -23,12 +23,12 @@
 3.  Then the insulator tray goes above the separator.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 4.  And at last, put the doors above the insulator trays and assemble everything using six M3-0.5x12 button head cap screws, with locknuts and washers.\
     \
 
 
-    <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 5.  Use two M3-0.5x8 button head cap screws to install the door latches as follows.\
@@ -51,7 +51,7 @@
 9.  At last, install the rubber edge trims as follows.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Assembly notes
 

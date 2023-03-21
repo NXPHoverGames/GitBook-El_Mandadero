@@ -24,7 +24,7 @@ description: >-
     \
 
 
-    <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 3.  Put the covers back to protect the screen and electronics.\
 
 
@@ -48,7 +48,7 @@ description: >-
 7.  Install the GPS mount using four M3-0.5x5 button head cap screws.\
 
 
-    <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 8.  Install the front headlights.\
@@ -65,7 +65,7 @@ description: >-
 
 
 
-    <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Top six screws</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Top six screws</p></figcaption></figure>
 10. Install the front/rear Q-Channels using three M3-0.5x5 screws per channel.\
     \
 

@@ -21,7 +21,7 @@ coverY: 133
 1.  Grab the Inner Brackets and Install the Reinforcement Gussets as so.\
 
 
-    <figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Use two M3-0.5x5 button head cap screws</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption><p>Use two M3-0.5x5 button head cap screws</p></figcaption></figure>
 2.  Take the Top Inner Bracket and install it on two the two pre-assembled Inner Brackets.\
 
 
