@@ -21,22 +21,22 @@ coverY: 133
 1.  Grab the Inner Brackets and Install the Reinforcement Gussets as so.\
 
 
-    <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Use two M3-0.5x5 button head cap screws</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Use two M3-0.5x5 button head cap screws</p></figcaption></figure>
 2.  Take the Top Inner Bracket and install it on two the two pre-assembled Inner Brackets.\
 
 
-    <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>For this you will need four M3-0.5x5 screws and four M3-0.5x8 screws. The latter will go to the reinforcement gussets.</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>For this you will need four M3-0.5x5 screws and four M3-0.5x8 screws. The latter will go to the reinforcement gussets.</p></figcaption></figure>
 3.  Install the top lights using four 12mm M3 socket head cap screws.\
     \
 
 
-    <figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Inner view</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Inner view</p></figcaption></figure>
 
     <figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Outer view</p></figcaption></figure>
 4.  If you are using the RC050 screen, install the plastic adapter in the inner bracket and then install the screen. For this you will need four screws for the screen and four for the bracket, all being M3-0.5x5 bottom heads.\
 
 
-    <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Make sure to install the bracket with the arrow facing up for a correct alignment.</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Make sure to install the bracket with the arrow facing up for a correct alignment.</p></figcaption></figure>
 5. For the DIS79340P screen just install it directly into the Inner Brackets using four M3-0.5x5 screws.
 6.  Now install the Top Cover using four M3-0.5x5 screws.\
 
@@ -47,7 +47,7 @@ coverY: 133
 7.  Assemble the angled LED lights in the Side Covers as shown.\
 
 
-    <figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 8.  Now install the side covers using six M3-0.5x5 screws per cover.\
 
 
