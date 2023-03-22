@@ -33,7 +33,7 @@ coverY: 95
 4.  Angle the middle copper connectors in place and finish fastening the top two screws in the middle.\
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 5.  Assemble the battery pack ground terminal as shown below. Note this has to be the first ground node in the whole series.\
 
 
@@ -61,7 +61,7 @@ coverY: 95
 
 
 
-    <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
 11. Insert the Top Plastic Plate to finish isolating most of the wiring. Make sure to align the slots with the tabs in the middle plastic plate.\
 
 
@@ -73,7 +73,7 @@ coverY: 95
 13. Install the plastic lid to protect the fuse while you do the rest of the wiring.\
 
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 14. Put the side panels in place and fix them using nine M3-0.5x5 screws per panel.\
     &#x20;
 
@@ -103,11 +103,13 @@ coverY: 95
 19. You can now connect the HV wires to the BMS. If you have anything else to wire, like the accessories, do it before this step.\
 
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 20. Fix the Top Metal Plate in place using fourteen M3-0.5x5 button head cap screws.\
 
 
     <figure><img src="../../.gitbook/assets/ELM4 Battery Module Assembly - frame at 2m46s.jpg" alt=""><figcaption></figcaption></figure>
+
+## Assembly notes
 
 {% hint style="danger" %}
 * Be extremely cautious during the whole process.

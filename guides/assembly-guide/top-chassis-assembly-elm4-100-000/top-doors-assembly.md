@@ -40,7 +40,7 @@
 6.  Fix the cylinder end of the gas strut to the chassis using three M3-0.5x5 button head cap screws.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 7.  Now pull the rod out of the cylinder and mate the mounting bracket of the gas strut to the two mounting holes in the door.\

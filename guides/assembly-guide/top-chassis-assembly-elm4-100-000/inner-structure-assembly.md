@@ -6,7 +6,7 @@ description: Guide describing how to set up the inner structure of the ELM4 Top 
 
 ## Video
 
-{% embed url="https://www.youtube.com/watch?index=4&list=PLPtvbG7RC0Ti-LQ3VVHAOeb-btZVdt6pv&v=J_iDVKMWodU" %}
+{% embed url="https://youtu.be/A5szs47Z_RU" %}
 
 ## Bill of materials
 
@@ -21,14 +21,14 @@ description: Guide describing how to set up the inner structure of the ELM4 Top 
 2.  Now take the two Panel Basket Mid Crosses and install them in the Bottom Mid-Cross using eight M3-0.5x5 screws.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. Get the Pannel Inner Baskets (110-016) and insert their tabs in the slots at the bottom plate.
 4.  Screw them in from the inner faces of the Middle Crosses.\
 
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 5.  Next take the Top Mid-Cross and fix it in place using eight M3-0.5x5 screws.\
 
 
@@ -46,11 +46,11 @@ description: Guide describing how to set up the inner structure of the ELM4 Top 
     \
 
 
-    <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Front three screws<br><br></p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption><p>Front three screws<br><br></p></figcaption></figure>
 
     <figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Middle three screws</p></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Bottom two screws</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Bottom two screws</p></figcaption></figure>
 9.  Get all of the outer U-Frames and install them as so.\
 
 

@@ -17,7 +17,7 @@ description: Installing windscreen and headlights in the bottom chassis
 1.  Grab the polycarbonate windows and fix them in place using the six M3-0.5x12 screws, washers and locknuts included in the kit.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Front view of the windscreen put in place.</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Front view of the windscreen put in place.</p></figcaption></figure>
 
 
 

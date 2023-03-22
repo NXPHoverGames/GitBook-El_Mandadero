@@ -32,7 +32,7 @@ coverY: 133
 
     <figure><img src="../../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Inner view</p></figcaption></figure>
 
-    <figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Outer view</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (13) (2).png" alt=""><figcaption><p>Outer view</p></figcaption></figure>
 4.  If you are using the RC050 screen, install the plastic adapter in the inner bracket and then install the screen. For this you will need four screws for the screen and four for the bracket, all being M3-0.5x5 bottom heads.\
 
 
