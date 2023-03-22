@@ -14,7 +14,8 @@ description: Guide describing how to set up the inner structure of the ELM4 Top 
 
 ## Procedure
 
-1.  Gather the two Bottom Bases and the Bottom Mid-Cross and assemble them using four M3-0.5x5 screws and two M5-0.8x10 screws with two M5 locknuts.\
+1.  Gather the two Bottom Bases and the Bottom Mid-Cross and assemble them using four M3-0.5x5 screws **and two M5-0.8x10 screws with two M5 locknuts.**\
+    **Note** the M5 screws and locknuts are installed in two center holes and are used to prevent the inner-basket panels (the ones with tabs and matching slots) to flex slide out of the slots during assembly.\
 
 
     <figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
@@ -22,7 +23,7 @@ description: Guide describing how to set up the inner structure of the ELM4 Top 
 
 
     <figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-3. Get the Pannel Inner Baskets (110-016) and insert their tabs in the slots at the bottom plate.
+3. Get the Panel Inner Baskets (110-016) and insert their tabs in the slots at the bottom plate.
 4.  Screw them in from the inner faces of the Middle Crosses.\
 
 

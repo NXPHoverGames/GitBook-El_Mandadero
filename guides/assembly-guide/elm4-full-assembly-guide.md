@@ -25,6 +25,8 @@ coverY: 0
 
 
     <figure><img src="../../.gitbook/assets/ELM4 Full Assemby Guide - frame at 0m11s.jpg" alt=""><figcaption></figcaption></figure>
+
+
 3.  Secure the Battery Pack in place using the two L-Brackets. First fix the Brackets to the Bottom Chassis using four M3-0.5x5 button head cap screws, then use four M5-0.8x10 screws to fix the battery pack to the brackets.\
     \
 
@@ -35,19 +37,32 @@ coverY: 0
 
     <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>M3 screws to secure the L-Brackets to the Chassis.</p></figcaption></figure>
 
+
+
     <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>M5 screws to secure the Battery Pack to the L-Brackets.</p></figcaption></figure>
 
+
+
     <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>M5 screws to secure the Battery Pack to the L-Brackets.</p></figcaption></figure>
-4.  Install the gasket tape at the top of the unit. There are two ways of doing this, either have the tape outside of the mounting holes frame or in the inner side.
+
+
+4.  Install the gasket tape at the top of the unit. There are technically two ways of doing this, either have the tape outside of the mounting holes frame or in the inner side. (We prefer to run the tape on the outside of the holes.)
 
 
 
     <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+
 5.  Install the Top Cover of the Bottom Chassis using three screws at the front and three at the back. These are M5-0.8x10 button head cap screws.\
 
 
     <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
-6.  Make the Top Payload sit on top of the Bottom Chassis, making sure to align the eight mounting holes. It is recommended to have the lids opened for an easier alignment.\
+
+    \
+    _NOTE: at this point the lower chassis is complete and you could use the platform as-is without any upper payload modules._\
+    \
+
+6.  Set the Top Payload sit on top of the Bottom Chassis. Take time to patiently align the eight mounting holes. It is recommended to have the lids opened for an easier alignment.\
     \
 
 
