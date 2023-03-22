@@ -30,7 +30,7 @@ Have a contingency plan, including egress and a fire extinguisher nearby.
 
 {% hint style="warning" %}
 **Wrench safety**\
-Tightening bolts will require the use of a wrench. Ideally that wench should be non-conductive. Since a non-conductive wrench impractical, cover the entire wrench with several layers of non-conductive electrical tape to help avoid accidental shorts against neighboring terminals. Cover the box end and open ends of the wrench as well, leaving only the openings to mate with the bolt uncovered. Pay close attention to ways that the wrench movement might still accidentally cause a short.
+Tightening bolts will require the use of a wrench. Ideally that wrench should be non-conductive. Since a non-conductive wrench impractical, cover the entire wrench with several layers of non-conductive electrical tape to help avoid accidental shorts against neighboring terminals. Cover the box end and open ends of the wrench as well, leaving only the openings to mate with the bolt uncovered. Pay close attention to ways that the wrench movement might still accidentally cause a short.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -41,15 +41,13 @@ The non-conductive plastic components are to help prevent accidental shorts from
 
 {% hint style="warning" %}
 **Assembly order and short circuits**\
-The assembly order below is trying to keep the final circuit open as long as possible in the process, and leave the easy to access terminals to the last steps to connect. Be sure you understand the potential short circuit/current paths that may take place in the case of an accidental short before attempting this assembly.
+The assembly order below is trying to keep the final circuit open as long as possible in the process and leave the easy to access terminals to the last steps to connect. Be sure you understand the potential short circuit/current paths that may take place in the case of an accidental short before attempting this assembly.
 {% endhint %}
 
 {% hint style="info" %}
 **Battery pack fuse**\
-There is a low level battery pack fuse to protect the batteries and wiring in the case of a dead short, but it still allows a high current of 50-150Amps (depending on the fuse installed) at the full pack voltage. This is a fuse of last resort, and should not be relied upon for primary fusing protection of circuits and devices attached to the battery. Secondary fuses need to be used which are appropriately sized for these loads.\
+There is a low-level battery pack fuse to protect the batteries and wiring in the case of a dead short, but it still allows a high current of 50-150Amps (depending on the fuse installed) at the full pack voltage. This is a fuse of last resort, and should not be relied upon for primary fusing protection of circuits and devices attached to the battery. Secondary fuses need to be used which are appropriately sized for these loads.\
 _Note this fuse must also be type **ignition protected** and of a type rated for full instantaneous pack discharge current "**10K AIC**"_
-
-The&#x20;
 {% endhint %}
 
 {% hint style="info" %}
