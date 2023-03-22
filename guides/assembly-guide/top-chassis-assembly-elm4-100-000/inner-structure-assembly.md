@@ -21,7 +21,7 @@ description: Guide describing how to set up the inner structure of the ELM4 Top 
 2.  Now take the two Panel Basket Mid Crosses and install them in the Bottom Mid-Cross using eight M3-0.5x5 screws.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. Get the Pannel Inner Baskets (110-016) and insert their tabs in the slots at the bottom plate.
 4.  Screw them in from the inner faces of the Middle Crosses.\
 

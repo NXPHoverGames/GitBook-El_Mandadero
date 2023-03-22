@@ -21,7 +21,7 @@ description: Installing windscreen and headlights in the bottom chassis
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption><p>Detail showing the washer and locknuts that fix the windscreen in place.</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (3) (1).png" alt=""><figcaption><p>Detail showing the washer and locknuts that fix the windscreen in place.</p></figcaption></figure>
 2.  Moving on to the LED headlights. Grab the acrylic lenses and the PCBs and align them to their mounting holes from the INNER face of the bottom chassis. And the plastic case to the exterior  face.\
 
 
@@ -29,7 +29,7 @@ description: Installing windscreen and headlights in the bottom chassis
 3.  Fasten the headlights together using the included pair of screws.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Assembly notes
 

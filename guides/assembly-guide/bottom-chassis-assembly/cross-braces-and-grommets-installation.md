@@ -21,7 +21,7 @@ description: >-
     \
 
 
-    <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 3.  Start pivoting the cross brace pushing back and forth to the point you get the arm completely inside of the unit.\
 
 

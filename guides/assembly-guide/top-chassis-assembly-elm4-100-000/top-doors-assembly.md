@@ -42,7 +42,7 @@
 
     <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 7.  Now pull the rod out of the cylinder and mate the mounting bracket of the gas strut to the two mounting holes in the door.\
 
 
@@ -51,7 +51,7 @@
 9.  At last, install the rubber edge trims as follows.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Assembly notes
 

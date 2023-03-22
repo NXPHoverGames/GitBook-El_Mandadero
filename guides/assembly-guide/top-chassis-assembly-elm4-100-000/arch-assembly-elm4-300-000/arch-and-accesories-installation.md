@@ -19,7 +19,7 @@ description: >-
 1.  Remove the side covers from the Archway module.\
 
 
-    <figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 2.  Insert the Arch in the open side of the side U-Channels. Set it in place using two M5-0.8x10 button head cap screws.\
     \
 
@@ -65,7 +65,7 @@ description: >-
 
 
 
-    <figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Top six screws</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>Top six screws</p></figcaption></figure>
 10. Install the front/rear Q-Channels using three M3-0.5x5 screws per channel.\
     \
 
