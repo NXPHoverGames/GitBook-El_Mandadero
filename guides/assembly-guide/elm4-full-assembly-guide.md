@@ -70,7 +70,7 @@ coverY: 0
 7.  Fasten the first four M5 screws that go inside of the storage compartments of the Top Payload.\
 
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 8.  Remove one of the side Q-Channels of the Top Payload. You will need to remove four M3-0.5x5 button head cap screws.
 
     <figure><img src="../../.gitbook/assets/ezgif.com-video-to-gif (4).gif" alt=""><figcaption></figcaption></figure>
@@ -83,7 +83,7 @@ coverY: 0
 10. Now install the remaining four M5 screws in the Bottom Mid-Cross of the Top Payload.\
 
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 11. Re-install the Side Panel and the Q-Channel you removed earlier. Now you have a complete ELM4 unit.\
 
 

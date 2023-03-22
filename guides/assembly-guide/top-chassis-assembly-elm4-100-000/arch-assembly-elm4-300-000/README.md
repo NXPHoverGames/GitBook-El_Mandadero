@@ -22,7 +22,7 @@ coverY: 133
 
 
     <figure><img src="../../../../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption><p>Use two M3-0.5x5 button head cap screws</p></figcaption></figure>
-2.  Take the Top Inner Bracket and install it on two the two pre-assembled Inner Brackets.\
+2.  Take the Top Inner Bracket and install it on the two pre-assembled Inner Brackets.\
 
 
     <figure><img src="../../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>For this you will need four M3-0.5x5 screws and four M3-0.5x8 screws. The latter will go to the reinforcement gussets.</p></figcaption></figure>

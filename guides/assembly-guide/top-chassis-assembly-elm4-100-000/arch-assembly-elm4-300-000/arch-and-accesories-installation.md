@@ -41,6 +41,8 @@ description: >-
 
 
     <figure><img src="../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 6.  Install the Corner Plastic guards using six M3-0.5x12 button head cap screws.\
 
 
