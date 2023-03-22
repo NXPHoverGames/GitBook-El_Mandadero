@@ -40,6 +40,8 @@ description: >-
 
     <figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
+## Assembly notes
+
 {% hint style="warning" %}
 Make sure to install the cross brace that is further from the suspension arm opening first.
 {% endhint %}
