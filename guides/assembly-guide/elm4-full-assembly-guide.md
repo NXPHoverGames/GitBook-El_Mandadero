@@ -74,6 +74,8 @@ coverY: 0
 
 
 
+    <figure><img src="../../.gitbook/assets/ELM4 Full Assemby Guide - frame at 1m40s.jpg" alt=""><figcaption></figcaption></figure>
+
 {% hint style="success" %}
 Congratulations! You have now completely assembled a full unit of El Mandadero.
 {% endhint %}
