@@ -6,6 +6,10 @@ description: >-
 
 # 3D Printed Battery Pack Components
 
+{% hint style="info" %}
+You only need to click on "Open in Fusion 360" and download the 3d source files in your PC in a variety of formats. Then you can edit or use your preferred 3d printed slicer software and start printing!
+{% endhint %}
+
 ## Fuse access panel
 
 {% embed url="https://a360.co/3FJ5ZDW" %}
@@ -19,7 +23,3 @@ description: >-
 {% embed url="https://a360.co/3K1Bvjj" %}
 
 {% embed url="https://a360.co/3ZbisHt" %}
-
-{% hint style="info" %}
-You only need to click on "Open in Fusion 360" and download the files in your PC. Then you can use your preferred slicer and start printing!
-{% endhint %}
