@@ -1,14 +1,18 @@
 ---
 description: >-
   DRAFT DRAFT DRAFT - This is considered unpublished and a work in progress
-  6/1/2022
+  4/19/2023
 ---
 
 # What is El Mandadero?
 
 {% hint style="info" %}
-El mandadero is a development tool that is available only upon request and through direct contact with NXP
+El Mandadero is a development tool that is available only upon request and through direct contact with NXP
 {% endhint %}
+
+
+
+
 
 Here are a couple of examples of succinct overviews from products with really great docs:
 
