@@ -19,10 +19,10 @@
     * [3D Printed Battery Pack Components](guides/assembly-guide/elm4-battery-pack-assembly/3d-printed-battery-pack-components.md)
   * [ELM4 Full Assembly Guide](guides/assembly-guide/elm4-full-assembly-guide.md)
 * [Manufacturing Guides](guides/manufacturing-guides/README.md)
-  * [Torsion arm PolyUrethane](guides/manufacturing-guides/torsion-arm-polyurethane.md)
-  * [Square Axle sub-assembly](guides/manufacturing-guides/square-axle-sub-assembly.md)
-  * [Welded Torsion Box](guides/manufacturing-guides/welded-torsion-box.md)
   * [Welded Torsion Arm](guides/manufacturing-guides/welded-torsion-arm.md)
+  * [Welded Torsion Box](guides/manufacturing-guides/welded-torsion-box.md)
+  * [Square Axle sub-assembly](guides/manufacturing-guides/square-axle-sub-assembly.md)
+  * [Torsion arm PolyUrethane](guides/manufacturing-guides/torsion-arm-polyurethane.md)
 * [xxxAdvanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals

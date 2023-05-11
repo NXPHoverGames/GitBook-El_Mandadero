@@ -27,7 +27,7 @@ coverY: 25.44408945686901
 3.  Use an Allen wrench to fasten the inner and outer sets of screws in the Torsion Arm. \
 
 
-    <figure><img src="../../../.gitbook/assets/ELM4 Suspension Module Full Assembly - frame at 0m20s.jpg" alt="Use of oval cutout to reach for last screw."><figcaption><p>Make use of the oval cutout to reach for the bottom-left inner screw, as shown below.<br></p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/ELM4 Suspension Module Full Assembly - frame at 0m20s.jpg" alt="Use of oval cutout to reach for last screw."><figcaption><p>Make use of the oval cutout to reach for the bottom-left inner screw, as shown above.<br></p></figcaption></figure>
 4.  Now, gather the Motor Controller Housing and assemble it to the axle as shown next.\
 
 
