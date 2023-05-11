@@ -22,6 +22,7 @@
   * [Torsion arm PolyUrethane](guides/manufacturing-guides/torsion-arm-polyurethane.md)
   * [Square Axle sub-assembly](guides/manufacturing-guides/square-axle-sub-assembly.md)
   * [Welded Torsion Box](guides/manufacturing-guides/welded-torsion-box.md)
+  * [Welded Torsion Arm](guides/manufacturing-guides/welded-torsion-arm.md)
 * [xxxAdvanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals
