@@ -14,8 +14,8 @@ coverY: 0
 
 ## Assembly guides links
 
-{% content-ref url="t-arm-motor-to-arm/" %}
-[t-arm-motor-to-arm](t-arm-motor-to-arm/)
+{% content-ref url="t-arm-motor-to-arm.md" %}
+[t-arm-motor-to-arm.md](t-arm-motor-to-arm.md)
 {% endcontent-ref %}
 
 {% content-ref url="torsion-arm-axle-attachment-to-chassis.md" %}
