@@ -58,7 +58,7 @@ Once the pack is assembled the associated risks are reduced. However, there is s
 When the battery is not in use, disconnecting the back at the "Anderson" two pin connector may be advised. **This connector should be securely covered and not left exposed.**
 {% endhint %}
 
-****
+
 
 
 
@@ -98,7 +98,7 @@ When the battery is not in use, disconnecting the back at the "Anderson" two pin
     <figure><img src="../../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
     **! Ensure any battery cable connectors are protected from shorting with heatshrink !**\
-    ****The image above only shows the connector, but this represents the **complete negative side cable** and the other end of the cable should be terminated to the ANDERSON style connector terminal and inserted into the connector housing, or otherwise electrically secured, for safety isolation.\
+    The image above only shows the connector, but this represents the **complete negative side cable** and the other end of the cable should be terminated to the ANDERSON style connector terminal and inserted into the connector housing, or otherwise electrically secured, for safety isolation.\
 
 6.  Insert the middle plastic separator BEFORE assembling the other bank. This will help keep a wrench or other object from shorting when tightening screws on the individual cells.\
 
@@ -117,11 +117,11 @@ When the battery is not in use, disconnecting the back at the "Anderson" two pin
 9.  Finish assembling the fuse on the battery terminal connector and attach the positive battery cable. Note the image shows only the connection of the cable assembly. The complete positive cable should be assembled before attaching here and will have an ANDERSON style crimp connector on the other end. This crimp connector should be installed in the housing the same as the negative side to secure it electrically from accidental shorts.\
     \
     _The intent is that both the negative and positive battery cables are pre-prepared with the HV wires installed in the Anderson connector and or electrically isolated BEFORE  attaching to the battery terminals for safety precautions._ \
-    __\
+    \
     _!!! COVER the open end of the ANDERSON Connector !!!_\
     _!!! Double check that the Negative and Positive are in the correct pin positions in the Anderson Connector !!!_\
-    __\
-    __
+    \
+
 
     <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
