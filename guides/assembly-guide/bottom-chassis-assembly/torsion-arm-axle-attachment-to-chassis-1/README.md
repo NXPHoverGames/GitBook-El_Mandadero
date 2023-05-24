@@ -17,19 +17,19 @@ description: Installing windscreen and headlights in the bottom chassis
 1.  Grab the polycarbonate windows and fix them in place using the six M3-0.5x12 screws, washers and locknuts included in the kit.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Front view of the windscreen put in place.</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Front view of the windscreen put in place.</p></figcaption></figure>
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (3) (1).png" alt=""><figcaption><p>Detail showing the washer and locknuts that fix the windscreen in place.</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (1) (1) (3) (1).png" alt=""><figcaption><p>Detail showing the washer and locknuts that fix the windscreen in place.</p></figcaption></figure>
 2.  Moving on to the LED headlights. Grab the acrylic lenses and the PCBs and align them to their mounting holes from the INNER face of the bottom chassis. And the plastic case to the exterior  face.\
 
 
-    <figure><img src="../../../.gitbook/assets/ELM4 Bottom Chassis Accesories Installation - frame at 0m26s.jpg" alt=""><figcaption><p>Make sure to follow this order when assembling the headlights.</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/ELM4 Bottom Chassis Accesories Installation - frame at 0m26s.jpg" alt=""><figcaption><p>Make sure to follow this order when assembling the headlights.</p></figcaption></figure>
 3.  Fasten the headlights together using the included pair of screws.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Assembly notes
 

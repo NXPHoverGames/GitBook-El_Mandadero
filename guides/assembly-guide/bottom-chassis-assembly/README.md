@@ -22,8 +22,8 @@ coverY: 0
 [torsion-arm-axle-attachment-to-chassis.md](torsion-arm-axle-attachment-to-chassis.md)
 {% endcontent-ref %}
 
-{% content-ref url="torsion-arm-axle-attachment-to-chassis-1.md" %}
-[torsion-arm-axle-attachment-to-chassis-1.md](torsion-arm-axle-attachment-to-chassis-1.md)
+{% content-ref url="torsion-arm-axle-attachment-to-chassis-1/" %}
+[torsion-arm-axle-attachment-to-chassis-1](torsion-arm-axle-attachment-to-chassis-1/)
 {% endcontent-ref %}
 
 {% content-ref url="cross-braces-and-grommets-installation.md" %}
