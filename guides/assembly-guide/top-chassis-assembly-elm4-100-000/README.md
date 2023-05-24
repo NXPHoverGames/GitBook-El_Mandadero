@@ -26,6 +26,6 @@ coverY: -55.514376996805126
 [arch-assembly-elm4-300-000](arch-assembly-elm4-300-000/)
 {% endcontent-ref %}
 
-{% content-ref url="arch-and-accesories-installation.md" %}
-[arch-and-accesories-installation.md](arch-and-accesories-installation.md)
+{% content-ref url="arch-and-accesories-installation/" %}
+[arch-and-accesories-installation](arch-and-accesories-installation/)
 {% endcontent-ref %}
