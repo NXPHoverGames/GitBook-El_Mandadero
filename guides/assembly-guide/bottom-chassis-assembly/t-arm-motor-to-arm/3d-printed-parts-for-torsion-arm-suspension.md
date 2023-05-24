@@ -23,3 +23,7 @@ Fixture for S32K1-ESC
 {% endembed %}
 
 [Click here to download the 3D printable files of the Fixture for the S32K1-ESC board](https://a360.co/3IzpKiQ)
+
+{% hint style="info" %}
+For files with multiple parts/solids we recommend downloading the STEP file and slice each solid after rather than directly exporting the STL file from the link.
+{% endhint %}

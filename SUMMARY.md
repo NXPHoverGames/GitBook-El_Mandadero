@@ -9,7 +9,7 @@
     * [ELM4 230-000 T-Arm Full Assembly](guides/assembly-guide/bottom-chassis-assembly/t-arm-motor-to-arm.md)
       * [3D Printed Parts for Torsion Arm Suspension](guides/assembly-guide/bottom-chassis-assembly/t-arm-motor-to-arm/3d-printed-parts-for-torsion-arm-suspension.md)
     * [T-Arm Insertion to Bottom Chassis](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-axle-attachment-to-chassis.md)
-    * [Accesories installation](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-axle-attachment-to-chassis-1/README.md)
+    * [Accesories installation](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-axle-attachment-to-chassis-1.md)
       * [3D Printed files for Accesories](guides/assembly-guide/bottom-chassis-assembly/torsion-arm-axle-attachment-to-chassis-1/3d-printed-files-for-accesories.md)
     * [Cross Braces and Grommets Installation](guides/assembly-guide/bottom-chassis-assembly/cross-braces-and-grommets-installation.md)
   * [Top Chassis Assembly ELM4 100-000](guides/assembly-guide/top-chassis-assembly-elm4-100-000/README.md)
