@@ -6,20 +6,30 @@ description: >-
 
 # 3D Printed Battery Pack Components
 
-{% hint style="info" %}
-You only need to click on "Open in Fusion 360" and download the 3d source files in your PC in a variety of formats. Then you can edit or use your preferred 3d printed slicer software and start printing!
-{% endhint %}
-
-## Fuse access panel
-
 {% embed url="https://a360.co/3FJ5ZDW" %}
+Fuse Access Panel
+{% endembed %}
 
-## BMS Case
+[Click here to download the 3D printable files of the Fuse Access Panel](https://a360.co/3FJ5ZDW)
 
-{% embed url="https://a360.co/3TG7xok" %}
+{% embed url="https://a360.co/3MGI2Qt" %}
+BMD Case
+{% endembed %}
 
-## SB50 Adapters
+[Click here to download the 3D printable files of the BMS case](https://a360.co/3MGI2Qt)
+
+
 
 {% embed url="https://a360.co/3K1Bvjj" %}
+Plastic standoff for SB50
+{% endembed %}
+
+[Click here to download the 3D printable files of the Plastic standoff for SB50](https://a360.co/3K1Bvjj)
 
 {% embed url="https://a360.co/3ZbisHt" %}
+
+[Click here to download the 3D printable files of the Drop in SB50 Standoff](https://a360.co/3ZbisHt)
+
+{% hint style="info" %}
+For files with multiple parts/solids we recommend downloading the STEP file and slice each solid after rather than directly exporting the STL file from the link.
+{% endhint %}
